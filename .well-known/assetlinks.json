@@ -1,0 +1,42 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mogular.oring.labor",
+    "sha256_cert_fingerprints":
+    ["22:4D:71:A3:19:77:50:C8:73:A7:45:29:D2:3E:7D:E7:5F:8D:53:48:BD:A4:35:71:51:B2:7B:52:CA:4B:B5:EA"]
+  }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mogular.oring.devlabor",
+    "sha256_cert_fingerprints":
+    ["22:4D:71:A3:19:77:50:C8:73:A7:45:29:D2:3E:7D:E7:5F:8D:53:48:BD:A4:35:71:51:B2:7B:52:CA:4B:B5:EA"]
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mogular.oring.amlabor",
+    "sha256_cert_fingerprints":
+    ["22:4D:71:A3:19:77:50:C8:73:A7:45:29:D2:3E:7D:E7:5F:8D:53:48:BD:A4:35:71:51:B2:7B:52:CA:4B:B5:EA"]
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mogular.oring.uplabor",
+    "sha256_cert_fingerprints":
+    ["22:4D:71:A3:19:77:50:C8:73:A7:45:29:D2:3E:7D:E7:5F:8D:53:48:BD:A4:35:71:51:B2:7B:52:CA:4B:B5:EA"]
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mogular.oring.tester",
+    "sha256_cert_fingerprints":
+    ["22:4D:71:A3:19:77:50:C8:73:A7:45:29:D2:3E:7D:E7:5F:8D:53:48:BD:A4:35:71:51:B2:7B:52:CA:4B:B5:EA"]
+  }
+}]
